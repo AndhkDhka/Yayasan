@@ -5,11 +5,16 @@
             "runtime": "vercel-php@0.7.1",
             "excludeFiles": [
                 "node_modules/**",
-                "resources/assets/**",
-                "storage/framework/cache/**",
+                "vendor/phpunit/**",
+                "vendor/fakerphp/**",
+                "vendor/mockery/**",
+                "vendor/myclabs/**",
+                "vendor/phar-io/**",
+                "vendor/phpunit/**",
+                "vendor/theseer/**",
+                "tests/**",
                 "storage/framework/views/**",
-                "storage/logs/**",
-                "tests/**"
+                "storage/framework/cache/**"
             ]
         }
     },
