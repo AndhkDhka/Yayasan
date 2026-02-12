@@ -1,5 +1,4 @@
 node_modules
-tests
 /vendor/phpunit
 /vendor/fakerphp
 /vendor/mockery
@@ -7,12 +6,7 @@ tests
 /vendor/myclabs
 /vendor/phar-io
 /vendor/theseer
-/vendor/phpdocumentor
-/vendor/phpstan
-storage/framework/cache/*
-storage/framework/views/*
-storage/logs/*
-resources/assets
 public/images
 public/assets
-resources/images
+storage/framework/cache/*
+storage/framework/views/*
