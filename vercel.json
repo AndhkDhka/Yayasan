@@ -14,7 +14,8 @@
                 "vendor/theseer/**",
                 "tests/**",
                 "storage/framework/views/**",
-                "storage/framework/cache/**"
+                "storage/framework/cache/**",
+                "public/images/**"
             ]
         }
     },
