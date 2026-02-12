@@ -5,7 +5,7 @@
 
 <!-- HERO -->
 <section class="relative h-[70vh] flex items-center justify-center text-center">
-    <img src="{{ asset('images/Kontak.jpg') }}"
+    <img src="{{ asset('images/berita.jpg') }}"
          class="absolute inset-0 w-full h-full object-cover">
     <div class="absolute inset-0 bg-[#7c1f1f]/60"></div>
 

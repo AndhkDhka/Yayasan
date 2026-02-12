@@ -173,7 +173,7 @@
 
         <div class="grid grid-cols-2 gap-6 reveal">
             <img src="{{ asset('images/mitra-kampus-1.jpg') }}" class="rounded-xl shadow">
-            <img src="{{ asset('images/mitra-kampus-2.jpg') }}" class="rounded-xl shadow">
+            <img src="{{ asset('images/kerjasama-kampus-2.jpg') }}" class="rounded-xl shadow">
         </div>
 
     </div>
@@ -224,7 +224,7 @@
             {{-- Bupati --}}
             <div class="group reveal">
                 <div class="overflow-hidden rounded-2xl shadow-lg">
-                    <img src="{{ asset('images/kunjungan-bupati.jpg') }}"
+                    <img src="{{ asset('images/Background2.jpg') }}"
                          class="w-full h-72 object-cover group-hover:scale-105 transition duration-500">
                 </div>
                 <h4 class="font-semibold mt-5">Kunjungan Bupati</h4>
@@ -265,9 +265,9 @@
 
         {{-- Galeri Kampus --}}
         <div class="grid grid-cols-2 gap-6 reveal">
-            <img src="{{ asset('images/kerjasama-kampus-1.jpg') }}"
+            <img src="{{ asset('images/Background1.jpg') }}"
                  class="rounded-xl shadow-lg object-cover h-48 w-full">
-            <img src="{{ asset('images/kerjasama-kampus-2.jpg') }}"
+            <img src="{{ asset('images/Background2.jpg') }}"
                  class="rounded-xl shadow-lg object-cover h-48 w-full">
             <img src="{{ asset('images/kerjasama-kampus-3.jpg') }}"
                  class="rounded-xl shadow-lg object-cover h-48 w-full col-span-2">

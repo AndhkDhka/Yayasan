@@ -6,7 +6,7 @@
 
 {{-- HERO SECTION --}}
 <section class="relative h-[70vh] flex items-center justify-center text-center">
-    <img src="{{ asset('images/ppdb.jpg') }}"
+    <img src="{{ asset('images/kerjasama-kampus-2.jpg') }}"
          class="absolute inset-0 w-full h-full object-cover">
     <div class="absolute inset-0 bg-[#7c1f1f]/60"></div>
 

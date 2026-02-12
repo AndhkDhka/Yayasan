@@ -88,7 +88,7 @@
             <div class="group">
                 <div class="overflow-hidden rounded-xl shadow-lg">
                     <img
-                        src="{{ asset('images/kegiatan.jpg') }}"
+                        src="{{ asset('images/Backgrounds.jpg') }}"
                         class="w-full h-72 object-cover transform group-hover:scale-105 transition duration-500"
                         alt="Kegiatan Siswa"
                     >
@@ -106,7 +106,7 @@
             <div class="group">
                 <div class="overflow-hidden rounded-xl shadow-lg">
                     <img
-                        src="{{ asset('images/lingkungan.jpg') }}"
+                        src="{{ asset('images/Background2.jpg') }}"
                         class="w-full h-72 object-cover transform group-hover:scale-105 transition duration-500"
                         alt="Lingkungan Sekolah">
                 </div>
